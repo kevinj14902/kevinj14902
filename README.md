@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Kevin Jia. I'm a student from Canada.
-I'm currently a Computer Science student studying at Dalhousie University.
-You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
+## My name is Kevin Jia. I'm a student from Canada.
+## I'm currently a Computer Science student studying at Dalhousie University.
+## You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
 
 <!--
 **kevinj14902/kevinj14902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
