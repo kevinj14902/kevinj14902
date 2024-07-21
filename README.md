@@ -4,6 +4,12 @@
 - I'm currently a Computer Science student studying at Dalhousie University.
 - You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
 
+## Languages and Tools
+<div>
+    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;&nbsp;
+
+</div>
+
 <!--
 **kevinj14902/kevinj14902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
