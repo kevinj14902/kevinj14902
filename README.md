@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Kevin
 
-- My name is Kevin Jia. I'm a student from Canada.
+- I'm a student from Canada.
 - I'm currently a Computer Science student studying at Dalhousie University.
 - You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
 
