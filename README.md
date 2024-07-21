@@ -6,7 +6,7 @@
 
 ## Languages and Tools
 <div>
-    <img width=50px src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg">&nbsp;&nbsp;&nbsp;
+    <img width=50px src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg">&nbsp;
     <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;&nbsp;
 </div>
 
