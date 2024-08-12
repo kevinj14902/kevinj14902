@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Kevin
 
-- I'm a student from Canada 🙋.
-- I'm currently a Computer Science student studying at Dalhousie University 💻.
-- You can contact me through one of two emails 📧: kw583478@dal.ca or kevinj14902@gmail.com
+- 🙋I'm a student from Canada.
+- 💻I'm currently a Computer Science student studying at Dalhousie University.
+- 📧You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
 
 ## ⚡Github Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
