@@ -4,10 +4,6 @@
 - 💻I'm currently a Computer Science student studying at Dalhousie University.
 - 📧You can contact me through one of two emails: kw583478@dal.ca or kevinj14902@gmail.com
 
-## ⚡Github Stats
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats-ten-rouge-18.vercel.app/api?username=kevinj14902&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ## Languages and Tools
 <div>
     <img width=50px src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
